@@ -34,12 +34,12 @@ https://github.com/user-attachments/assets/55b94633-b67f-46e7-a9d0-e346f0d7877a
 
 
 
-Demo : bcworks.in.net/nuke
+[Demo](https://bcworks.in.net/nuke)
 
 
 
 <a href="https://raw.githubusercontent.com/guider23/bcWorks/main/nuke.html" download="nuke.html">
-  Download Demo,save as .html file
+  Demo-Save as .html file
 </a>
 
 
