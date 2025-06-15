@@ -1,116 +1,93 @@
+# ⚡ nuke.js — A Framework for Non-Coding Devs
 
-# nuke.js
+![nuke.js demo](https://github.com/user-attachments/assets/50bfdeb8-d236-4076-ba66-b8eafd95200c)
 
-![shot style-2025-06-14T09_09_59 426Z](https://github.com/user-attachments/assets/50bfdeb8-d236-4076-ba66-b8eafd95200c)
+**nuke.js** is a compact JavaScript framework that silently removes watermark elements from embedded third-party widgets — giving your site a clean, fully branded look.
 
-
-**nuke.js** is a lightweight JavaScript utility that automatically removes watermark elements from popular third-party widget providers, helping your site look clean, professional, and fully branded.
-
-Currently supports:
-
-* Elfsight
-* POWR.io
-* Common Ninja
-* Spline
-* Additional providers to be added in future updates
+> No more “Powered by”, “Free version”, or obtrusive logos ruining your design.
 
 ---
 
-## Overview
+## Supported Providers (so far)
 
-nuke.js is designed to run quietly in the background of your website, scanning DOM and shadow DOM structures to detect and remove unwanted watermark elements. It ensures that your embedded widgets appear as native components of your site, without distracting third-party branding.
-
-This script is intended for users who want to maintain consistent aesthetics across their websites without manually editing or hacking widget source code.
-
-
-
-
-
-https://github.com/user-attachments/assets/55b94633-b67f-46e7-a9d0-e346f0d7877a
-
-
-
-
-
-
-
-[Demo](https://bcworks.in.net/nuke)
-
-
-
-<a href="https://raw.githubusercontent.com/guider23/bcWorks/main/nuke.html" download="nuke.html">
-  Demo-Save as .html file
-</a>
-
-
+*  **Common Ninja**
+*  **Elfsight**
+*  **POWR.io**
+*  **Spline**
+* 🔜 More in future updates
 
 ---
 
-## Usage
+## What It Does
 
-To integrate nuke.js, simply include the following CDN script tag in your HTML:
+**nuke.js** scans your page (including shadow DOMs & iframes) and removes watermark links, logos, and badges injected by widget providers — without breaking functionality.
+
+It runs automatically on load, keeping your UI clean and distraction-free — like the widgets were yours all along.
+
+---
+
+##  Live Demo
+
+* [Live Preview](https://bcworks.in.net/nuke)
+* [Save Demo as HTML](https://raw.githubusercontent.com/guider23/bcWorks/main/nuke.html)
+
+---
+
+##  Usage
+
+Include the script via CDN:
 
 ```html
 <script src="https://cdn.bcworks.in/nuke.js"></script>
 ```
 
-Once loaded, it will automatically detect and remove watermark elements from supported widget platforms.
+Once included, it will auto-scan and clean supported widgets. No config needed (unless you want it).
 
 ---
 
-## Licensing & Pricing
-
-nuke.js requires activation either through a BC Works membership or a direct license purchase.
+##  Licensing & Pricing
 
 | Plan          | Price         | Access Type        | Domains Allowed | Updates            |
 | ------------- | ------------- | ------------------ | --------------- | ------------------ |
 | Monthly Plan  | ₹99/month     | Subscription-based | 1 domain        | Included           |
 | Lifetime Plan | ₹199 one-time | Permanent access   | 1 domain        | All future updates |
 
-> Note: Each license is valid for a single domain. Multi-domain support may be offered in future plans.
+> Note: Each license is valid for a single domain. Multi-domain plans may be added soon.
 
-**Purchase here:**
-
-
-[Subscribe Now on Gumroad](https://guider23.gumroad.com/l/premium)
-
-[Buy Now on Gumroad](https://guider23.gumroad.com/l/nuke)
-
+* [Subscribe (Monthly)](https://guider23.gumroad.com/l/premium)
+* [Buy Lifetime Access](https://guider23.gumroad.com/l/nuke)
 
 ---
 
-## Roadmap
+##  Roadmap
 
-* Support for additional widget platforms
-* Web dashboard for license management and analytics
-* Encrypted version for advanced stealth deployments
-* Custom domain support
-* Performance optimization
-
----
-
-## Intended Audience
-
-nuke.js is ideal for:
-
-* Independent developers
-* Web designers and freelancers
-* Agencies delivering client-facing sites
-* Product builders maintaining UI consistency
+* Support for more widget providers
+* Web dashboard for license/analytics
+* Encrypted stealth version
+* Multi-domain support
+* Speed & memory optimizations
 
 ---
 
-## Disclaimer
+##  Ideal For
 
-This tool is intended strictly for personal and educational use.
-Do not deploy nuke.js on domains you do not own or manage without proper authorization. Ensure that your usage complies with the terms of service of the widget providers you integrate.
+* Developers who embed external widgets
+* Freelancers building for clients
+* Agencies ensuring clean UI
+* Product teams keeping brand consistency
 
 ---
 
-## About
+##  Disclaimer
 
-Developed and maintained by **BC Works**
-For support, inquiries, or licensing requests, contact:
+nuke.js is for **personal or educational use** only.
+Do not use it on websites you don’t own or without permission. Make sure your use complies with each widget provider's TOS.
+
+---
+
+##  About
+
+Made with care by **BC Works**
 
 * Email: `sofiyasenthilkumar@gmail.com`
-* Website: [https://bcworks.in.net](https://bcworks.in.net)
+* Site: [https://bcworks.in.net](https://bcworks.in.net)
