@@ -28,6 +28,12 @@ It runs automatically on load, keeping your UI clean and distraction-free — li
 
 ##  Live Demo
 
+
+
+https://github.com/user-attachments/assets/59e16e5c-b34d-4302-9279-1199506fe00e
+
+
+
 * [Live Preview](https://bcworks.in.net/nuke)
 * [Save Demo as HTML](https://raw.githubusercontent.com/guider23/bcWorks/main/nuke.html)
 
@@ -38,7 +44,7 @@ It runs automatically on load, keeping your UI clean and distraction-free — li
 Include the script via CDN:
 
 ```html
-<script src="https://cdn.bcworks.in/nuke.js"></script>
+<script src="https://cdn.bcworks.in.net/nuke.min.js"></script>
 ```
 
 Once included, it will auto-scan and clean supported widgets. No config needed (unless you want it).
