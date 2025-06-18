@@ -49,6 +49,10 @@ Include the script via CDN:
 
 Once included, it will auto-scan and clean supported widgets. No config needed (unless you want it).
 
+Wanna try for free ?
+```html
+<script src="https://"
+
 ---
 
 ##  Licensing & Pricing
