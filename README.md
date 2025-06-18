@@ -51,9 +51,11 @@ Once included, it will auto-scan and clean supported widgets. No config needed (
 
 Wanna try for free ?
 ```html
-<script src="https://"
+<script src="https://cdn.jsdelivr.net/gh/guider23/nuke.js@main/trial.js"></script>
+```
 
----
+Only works locally (file://)
+
 
 ##  Licensing & Pricing
 
