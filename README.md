@@ -2,6 +2,14 @@
 
 ![nuke.js demo](https://github.com/user-attachments/assets/50bfdeb8-d236-4076-ba66-b8eafd95200c)
 
+> ## LIMITED TIME ONLY!
+> ### ⚡ 7-DAY FREE TRIAL IS LIVE! ⚡  
+> Unlock full access, no strings attached.  
+> Start now — your 7 days of power begins **today**.
+> 
+> Contact sofiyasenthilkumar@gmail.com
+
+
 **nuke.js** is a compact JavaScript framework that silently removes watermark elements from embedded third-party widgets — giving your site a clean, fully branded look.
 
 > No more “Powered by”, “Free version”, or obtrusive logos ruining your design.
@@ -14,7 +22,8 @@
 *  **Elfsight**
 *  **POWR.io**
 *  **Spline**
-* 🔜 More in future updates
+* **Tally**
+* More to arrive 💕
 
 ---
 
