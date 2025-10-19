@@ -1,4 +1,4 @@
-# ⚡ nuke.js — A Mini Framework for Non-Coding Devs
+# ⚡ nuke.js — Remove popular watermarks
 
 ![nuke.js demo](https://github.com/user-attachments/assets/50bfdeb8-d236-4076-ba66-b8eafd95200c)
 
