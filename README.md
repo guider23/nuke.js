@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/59e16e5c-b34d-4302-9279-1199506fe00e
 Include the script via CDN:
 
 ```html
-<script src="https://cdn.bcworks.in.net/nuke.min.js"></script>
+<script src="https://cdn.bcworks.in.net/nuke.min.js"></script> //Only works after subscription
 ```
 
 Once included, it will auto-scan and clean supported widgets. No config needed (unless you want it).
