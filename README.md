@@ -1,4 +1,4 @@
-# ⚡ nuke.js — Remove popular watermarks
+# ⚡ nuke.js — Remove popular watermarks with one line
 
 ![nuke.js demo](https://github.com/user-attachments/assets/50bfdeb8-d236-4076-ba66-b8eafd95200c)
 
