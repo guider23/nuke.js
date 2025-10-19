@@ -19,6 +19,7 @@
 ## Supported Providers (so far)
 
 *  **Common Ninja**
+*  **Bracket Ninja**
 *  **Elfsight**
 *  **POWR.io**
 *  **Spline**
